@@ -42,3 +42,8 @@
 ## Slicing
 
 - copy = items[:]
+
+# Dictionaries
+
+- items = {}
+- item = items.get(key, default)
