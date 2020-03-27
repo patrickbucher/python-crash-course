@@ -47,3 +47,22 @@
 
 - items = {}
 - item = items.get(key, default)
+
+## Looping Over Keys and Values
+
+for key in dictionary: # implicit
+    print(key, dictionary[key])
+    
+for key in dictionary.keys(): # explicit
+    print(key, dictionary[key])
+
+for value in dictionary.values():
+    print(value)
+
+for key, value in dictionary.items():
+    print(key, value)
+
+# Sets
+
+- set(items)
+- uniqueitems = {'foo', 'bar', 'baz'}

@@ -1,10 +1,10 @@
 favorite_numbers = {
-    'Devil': 666,
-    'Arthur': 42,
-    'Adolf': 88,
-    'Mephisto': -1,
-    'Rocco': 69,
+    'Devil': [666, 23],
+    'Arthur': [42, 23, 666, 0],
+    'Adolf': [88, 1939],
+    'Mephisto': [-1, 0],
+    'Rocco': [69],
 }
 
 for person in favorite_numbers:
-    print(f"{person}'s favorite number is {favorite_numbers[person]}.")
+    print(f"{person}'s favorite numbers are {favorite_numbers[person]}.")
