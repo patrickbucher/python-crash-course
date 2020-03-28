@@ -66,3 +66,11 @@ for key, value in dictionary.items():
 
 - set(items)
 - uniqueitems = {'foo', 'bar', 'baz'}
+
+# Input
+
+- string = input("prompt")
+
+# Casting
+
+- number = int(string)
