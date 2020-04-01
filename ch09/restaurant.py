@@ -10,14 +10,3 @@ class Restaurant:
 
     def open_restaurant(self):
         print(f'the Restaurant {self.restaurant_name} is open')
-
-
-bahnhoefli = Restaurant('Bahnhöfli', 'inferior')
-bahnhoefli.describe_restaurant()
-bahnhoefli.open_restaurant()
-
-sternen = Restaurant('Sternen', 'traditional Swiss')
-sternen.describe_restaurant()
-
-mailing = Restaurant('Mai Ling', 'Chinese')
-mailing.describe_restaurant()

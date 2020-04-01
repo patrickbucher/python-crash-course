@@ -74,3 +74,10 @@ for key, value in dictionary.items():
 # Casting
 
 - number = int(string)
+
+# Standard Library
+
+## random
+
+- random.randint(from, to)
+- random.choice(['foo', 'bar'])
