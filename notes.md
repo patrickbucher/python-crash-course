@@ -83,3 +83,14 @@ for key, value in dictionary.items():
 
 - random.randint(from, to)
 - random.choice(['foo', 'bar'])
+
+# Unittests
+
+## Assertions
+
+- assertEqual(a, b): a == b
+- assertNotEqual(a, b): a != b
+- assertTrue(x): x is True
+- assertFalse(x): x is False
+- assertIn(item, list): item in list
+- assertNotIn(item, list): item not in list
