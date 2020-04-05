@@ -64,7 +64,9 @@ for key, value in dictionary.items():
 
 # Sets
 
-- set(items)
+- s = set()
+- s = set(items)
+- s.add('foo')
 - uniqueitems = {'foo', 'bar', 'baz'}
 
 # Input

@@ -1,0 +1,10 @@
+In Python you can trim whitespace from strings.
+In Python you can append items to a list.
+In Python you can remove items from a list.
+In Python you can retrieve the length of a string.
+In Python you can sort and reverse a list.
+In Python you can extract slices from lists.
+In Python you can create ranges of numbers.
+In Python you can iterate over the keys and values of a dictionary.
+In Python you can create random numbers.
+In Python you can concatenate strings and lists.
